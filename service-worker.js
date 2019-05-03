@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sahih-bukhari/precache-manifest.229116b41defe09d5b66d175ff0385b1.js"
+  "/sahih-bukhari/precache-manifest.e28f8c269429144e2b1da8dd64832394.js"
 );
 
 workbox.clientsClaim();
